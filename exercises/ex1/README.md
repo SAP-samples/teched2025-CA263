@@ -58,7 +58,7 @@ Enter the following project attributes:
 
 Select **Yes** for **Enable TypeScript** and leave the remaining selections as they have been pre-configured. 
 
-For the Minimum SAPUI5 Version the micro version 1.141.**X** doesn't matter. Keep it as suggested by the generator.
+For the Minimum SAPUI5 Version the micro version 1.141.**X** doesn't matter. In the meantime SAPUI5 1.142.0 was released, you can also use this version.
 
 Click **Finish**.
 
