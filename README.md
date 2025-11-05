@@ -1,5 +1,4 @@
-
-
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2025-CA263)](https://api.reuse.software/info/github.com/SAP-samples/teched2025-CA263)
 # CA263 - Flexibility at Scale with Freestyle SAPUI5 and SAP Fiori elements
 
 ## Description
