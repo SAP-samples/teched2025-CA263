@@ -6,6 +6,8 @@ As a participant of the hands-on, you should already be set up with access to th
 
 Navigate to https://lcapteched.eu10.build.cloud.sap/lobby
 
+Users van be found here: https://github.com/SAP-samples/teched2025-CA263/blob/main/exercises/ex0/Users.md
+
 ## Accessing the Dev Space Manager
 
 On the SAP Build landing page, click button **Product Switch** in the top right corner and select **Dev Space Manager**.<br>
