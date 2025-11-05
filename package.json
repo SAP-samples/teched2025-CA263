@@ -37,6 +37,9 @@
     "typescript-eslint": "^8.12.2"
   },
   "cds": {
+    "watch": {
+      "excludes": ["**/node_modules", "**/target", "db/data.sqlite"]
+    },
     "requires": {
       "db": {
         "kind": "sql"
